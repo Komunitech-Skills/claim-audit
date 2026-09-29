@@ -1,0 +1,16 @@
+{
+  "schema": "rin.capability/v1",
+  "name": "claim-audit",
+  "kind": "skill",
+  "activation": [
+    "active",
+    "manual"
+  ],
+  "discovery": "automatic",
+  "audience": [
+    "general",
+    "research"
+  ],
+  "sideEffects": "read-only",
+  "status": "active"
+}

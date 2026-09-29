@@ -1,7 +1,7 @@
 ---
 name: claim-audit
 description: Audit external or time-sensitive claims with traceable sources and support status. Use for web research; skip supplied-only or computation tasks.
-version: 2.2.0
+version: 2.2.1
 metadata:
   openclaw:
     emoji: 🔎

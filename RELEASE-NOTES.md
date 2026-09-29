@@ -1,3 +1,7 @@
+# v2.2.1 — activation model
+
+Declares automatic/manual research activation in the portfolio contract. Schedules remain disabled by default, and this release does not deploy or reconfigure Rin.
+
 # v2.2.0 — portfolio contract
 
 Use current OpenClaw description routing and stable `{baseDir}` helper paths. Leave owner `AGENTS.md` unchanged during normal install; retain explicit legacy-pointer migration. No change is deployed directly to Rin.

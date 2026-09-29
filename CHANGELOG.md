@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.2.1 - 2026-09-29
+
+- Declare the active/manual capability contract and automatic discovery scope.
+
 ## 2.2.0 — 2026-09-28
 
 - Use current OpenClaw description routing and stable `{baseDir}` helper paths.
