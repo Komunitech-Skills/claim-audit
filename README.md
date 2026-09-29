@@ -1,5 +1,11 @@
 # ClaimAudit
 
+> **Product classification:** Skill · Activation: Active + Manual · Model discovery: Automatic
+
+## Activation model
+
+Automatic for research and verification tasks; it can also be invoked manually. It is read-only and does not install a schedule.
+
 [![Verify](https://github.com/rin-proxy/claim-audit/actions/workflows/verify.yml/badge.svg)](https://github.com/rin-proxy/claim-audit/actions/workflows/verify.yml)
 [![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE)
 
